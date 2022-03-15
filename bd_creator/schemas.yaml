@@ -1,0 +1,8 @@
+- name: smth
+  size: medium
+  columns: ['smth', 'smth', 'smth', 'smth']
+  schema: |
+    smth varchar(200) not null,
+    smth integer not null,
+    smth smallint not null,
+    smth smallint not null
